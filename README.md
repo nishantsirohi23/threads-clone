@@ -1,8 +1,12 @@
-# Threads Clone Tutorial
-
-### Built With React, MongoDB, ExpressJS, NodeJS, JWT, Cloudinary
-
-# [Tutorial](https://youtu.be/tvKhOAlAjTY?si=cb5Et8_xIi3ZliiE)
+# Threads Clone Using MERN
 
 ![Screenshot of App](https://i.ibb.co/Gs9fWwh/Group-8.png)
-# threads-clone
+## Features
+
+- User authentication and authorization system
+- Thread creation, editing, and deletion
+- Comment posting, editing, and deletion
+- Thread and comment upvoting and downvoting functionality
+- Real-time updates using WebSocket technology
+
+
